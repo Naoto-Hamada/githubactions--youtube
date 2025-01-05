@@ -1,7 +1,7 @@
-name: main-name:learn-github-actions
+name: main-name_learn-github-actions
 on: [push]
 jobs:
-  job-name:check-bats-version:
+  job-name_check-bats-version:
     runs-on: ubuntu-latest
     steps:
       - run: echo "this is pen"
